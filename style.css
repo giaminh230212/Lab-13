@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel-item{
+    height:700px;
+}
+
+.bg-img1{
+    background-size:cover;
+    background-color: #000;
+}
+
+.bg-img2{
+    background-size:cover;
+    background-color: #000;
+}
+
+.bg-img3{
+    background-size:cover;
+    background-color: #000;
+}
+
+.carousel-caption{
+    bottom:180px;
+}
+
+.carousel-caption h1{
+    font-size:50px;
+    font-weight:bold;
+}
+
+.carousel-caption p{
+    font-size:20px;
+}
+
+.card{
+    margin-top:20px;
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+}
+
+footer{
+    margin-top:40px;
+}
